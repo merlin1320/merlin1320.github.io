@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am learning how to code again. Working to become a Front End Developer. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Creating random projects and having a great time learning!
 
 ### Contact me
 
